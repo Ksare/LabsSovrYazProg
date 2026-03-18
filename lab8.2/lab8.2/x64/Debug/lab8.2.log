@@ -1,0 +1,6 @@
+﻿  money.cpp
+  Stroka.cpp
+C:\Users\Admin\source\repos\lab8.2\lab8.2\Stroka.cpp(12,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\lab8.2\lab8.2\Stroka.cpp(69,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  lab8.2.vcxproj -> C:\Users\Admin\source\repos\lab8.2\x64\Debug\lab8.2.exe
