@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\lab6\lab6\Stroka.h(53,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Admin\source\repos\lab6\lab6\Stroka.h(86,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Admin\source\repos\lab6\lab6\Stroka.h(137,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  lab6.vcxproj -> C:\Users\Admin\source\repos\lab6\x64\Debug\lab6.exe
